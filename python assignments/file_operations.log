@@ -1,0 +1,16 @@
+2025-05-28 15:51:44,304 - INFO - Attempting to create and open the file 'Data Analytics.txt'.
+2025-05-28 15:51:44,304 - INFO - File 'Data Analytics.txt' created and opened successfully
+2025-05-28 15:51:44,304 - INFO - Text written to the file 'Data Analytics.txt'.
+2025-05-28 15:51:44,305 - INFO - File 'Data Analytics.txt' closed successfully
+2025-05-28 15:53:55,517 - INFO - Attempting to create and open the file 'D:\python notes.txt'.
+2025-05-28 15:53:55,518 - INFO - File 'Data Analytics.txt' created and opened successfully
+2025-05-28 15:53:55,518 - INFO - Text written to the file 'D:\python notes.txt'.
+2025-05-28 15:53:55,518 - INFO - File 'Data Analytics.txt' closed successfully
+2025-05-28 15:56:09,976 - INFO - Attempting to create and open the file 'D:\python notes.txt'.
+2025-05-28 15:56:09,976 - INFO - File 'Data Analytics.txt' created and opened successfully
+2025-05-28 15:56:09,977 - INFO - Text written to the file 'D:\python notes.txt'.
+2025-05-28 15:56:09,977 - INFO - File 'Data Analytics.txt' closed successfully
+2025-05-28 15:56:48,055 - INFO - Attempting to create and open the file 'python notes.txt'.
+2025-05-28 15:56:48,056 - INFO - File 'Data Analytics.txt' created and opened successfully
+2025-05-28 15:56:48,056 - INFO - Text written to the file 'python notes.txt'.
+2025-05-28 15:56:48,056 - INFO - File 'python notes.txt' closed successfully
